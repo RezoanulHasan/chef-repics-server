@@ -1,0 +1,185 @@
+[
+ {
+  "id": 1,
+  "chef_picture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  "chef_name": "John Smith",
+  "years_of_experience": 11,
+  "number_of_recipes": 3,
+  "recipes": [
+    {
+      "recipe_name": "Spicy Chicken Fajitas",
+      "ingredients": ["chicken", "bell peppers", "onion", "spices", "tortillas"],
+      "cooking_method": "1. In a large skillet, cook chicken, peppers, and onion over medium-high heat until chicken is no longer pink. 2. Add spices and cook for an additional 2 minutes. 3. Serve on warm tortillas.",
+      "rating": 4.5
+    },
+    {
+      "recipe_name": "Garlic Butter Shrimp",
+      "ingredients": ["shrimp", "garlic", "butter", "lemon juice", "parsley"],
+      "cooking_method": "1. Melt butter in a large skillet over medium heat. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Add lemon juice and parsley. 5. Serve over rice.",
+      "rating": 4.2
+    },
+    {
+      "recipe_name": "Beef Stroganoff",
+      "ingredients": ["beef", "mushrooms", "onion", "sour cream", "egg noodles"],
+      "cooking_method": "1. Cook egg noodles according to package instructions. 2. In a separate skillet, cook beef, mushrooms, and onion until beef is browned. 3. Add sour cream and stir until heated through. 4. Serve over egg noodles.",
+      "rating": 4.7
+    }
+  ],
+  "likes": 150,
+  "bio": " John Smith is an American chef with 11 years of experience in the culinary industry. He specializes in creating flavorful and unique dishes that are both delicious and easy to prepare. His recipes are inspired by his travels around the world and his passion for using fresh, locally sourced ingredients whenever possible."
+},
+
+{
+  "id": 2,
+  "chef_picture": "https://plus.unsplash.com/premium_photo-1658506988095-885269f2b56e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  "chef_name": "Lisa Johnson",
+  "years_of_experience": 10,
+  "number_of_recipes": 3,
+  "recipes": [
+    {
+      "recipe_name": "Creamy Tomato Soup",
+      "ingredients": ["tomatoes", "cream", "butter", "onion", "garlic"],
+      "cooking_method": "1. Melt butter in a large pot over medium heat. 2. Add onion and garlic and cook until softened. 3. Add tomatoes and cook for 20 minutes. 4. Add cream and stir until heated through. 5. Serve hot.",
+      "rating": 4.4
+    },
+    {
+      "recipe_name": "Roasted Salmon",
+      "ingredients": ["salmon", "lemon", "butter", "dill", "garlic"],
+      "cooking_method": "1. Preheat oven to 400°F. 2. Place salmon on a baking sheet. 3. Top with sliced lemon, butter, dill, and garlic. 4. Roast for 15-20 minutes. 5. Serve hot.",
+      "rating": 4.8
+    },
+    {
+      "recipe_name": "Eggplant Parmesan",
+      "ingredients": ["eggplant", "tomato sauce", "mozzarella cheese", "parmesan cheese", "breadcrumbs"],
+      "cooking_method": "1. Slice eggplant and coat in breadcrumbs. 2. Fry eggplant slices in a skillet until golden brown. 3. Layer eggplant, tomato sauce, and cheese in a baking dish. 4. Bake at 375°F for 30 minutes. 5. Serve hot.",
+      "rating": 4.2
+    }
+  ],
+  "likes": 120,
+  
+  "bio": "Lisa Johnson is an American chef with 10 years of experience in the culinary industry. He specializes in creating flavorful and unique dishes that are both delicious and easy to prepare. His recipes are inspired by his travels around the world and his passion for using fresh, locally sourced ingredients whenever possible."
+},
+
+{
+  "id": 3,
+  "chef_picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  "chef_name": "Rachel Kim",
+  "years_of_experience": 15,
+  "number_of_recipes": 3,
+  "recipes": [
+    {
+      "recipe_name": "Pesto Pasta",
+      "ingredients": ["pasta", "basil", "pine nuts", "garlic", "parmesan cheese"],
+      "cooking_method": "1. Cook pasta according to package instructions. 2. Blend basil, pine nuts, garlic, and parmesan cheese in a food processor. 3. Toss pasta with pesto sauce. 4. Serve hot.",
+      "rating": 4.5
+    },
+    {
+      "recipe_name": "Beef Stroganoff",
+      "ingredients": ["beef", "onion", "mushrooms", "sour cream", "beef broth"],
+      "cooking_method": "1. Brown beef in a skillet. 2. Add onion and mushrooms and cook until softened. 3. Add beef broth and simmer for 10 minutes. 4. Stir in sour cream and heat until warmed through. 5. Serve hot over egg noodles.",
+      "rating": 4.2
+    },
+    {
+      "recipe_name": "Garlic Shrimp",
+      "ingredients": ["shrimp", "garlic", "lemon", "butter", "parsley"],
+      "cooking_method": "1. Melt butter in a skillet over medium heat. 2. Add garlic and cook for 1-2 minutes. 3. Add shrimp and cook until pink. 4. Squeeze lemon juice over shrimp and sprinkle with parsley. 5. Serve hot.",
+      "rating": 4.8
+    }
+  ],
+  "likes": 150,
+  "bio": "Rachel Kim is an American chef with 15 years of experience in the culinary industry. He specializes in creating flavorful and unique dishes that are both delicious and easy to prepare. His recipes are inspired by his travels around the world and his passion for using fresh, locally sourced ingredients whenever possible."
+},
+
+{
+  "id": 4,
+  "chef_picture": "https://images.unsplash.com/photo-1572715376701-98568319fd0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  "chef_name": "Michael Chen",
+  "years_of_experience": 11,
+  "number_of_recipes": 3,
+  "recipes": [
+    {
+      "recipe_name": "Beef Burgers",
+      "ingredients": ["ground beef", "buns", "lettuce", "tomato", "ketchup"],
+      "cooking_method": "1. Form ground beef into patties and season with salt and pepper. 2. Cook burgers on a grill or in a skillet until cooked through. 3. Serve on buns with lettuce, tomato, and ketchup.",
+      "rating": 4.6
+    },
+    {
+      "recipe_name": "Chicken Fajitas",
+      "ingredients": ["chicken", "bell peppers", "onion", "tortillas", "salsa"],
+      "cooking_method": "1. Slice chicken and vegetables into thin strips. 2. Cook in a skillet over medium-high heat until cooked through. 3. Serve with warm tortillas and salsa.",
+      "rating": 4.4
+    },
+    {
+      "recipe_name": "Roasted Vegetables",
+      "ingredients": ["carrots", "potatoes", "zucchini", "olive oil", "salt"],
+      "cooking_method": "1. Preheat oven to 425°F. 2. Cut vegetables into bite-sized pieces. 3. Toss with olive oil and salt. 4. Roast for 20-25 minutes or until vegetables are  cooked through and golden brown.",
+    "rating": 4.2
+    }
+  ],
+ "likes": 170,
+ "bio": "Michael Chen is an American chef with 11 years of experience in the culinary industry. He specializes in creating flavorful and unique dishes that are both delicious and easy to prepare. His recipes are inspired by his travels around the world and his passion for using fresh, locally sourced ingredients whenever possible."
+ },
+ 
+ {
+  "id": 5,
+  "chef_picture": "https://images.unsplash.com/photo-1556940211-ea1d97e04458?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+  "chef_name": "David Lee",
+  "years_of_experience": 10,
+  "number_of_recipes": 3,
+  "recipes": [
+    {
+      "recipe_name": "Beef Tacos",
+      "ingredients": ["beef", "taco seasoning", "lettuce", "cheese", "sour cream"],
+      "cooking_method": "1. Cook beef in a skillet until browned. 2. Add taco seasoning and cook for an additional 2 minutes. 3. Serve beef mixture in taco shells with lettuce, cheese, and sour cream.",
+      "rating": 4.3
+    },
+    {
+      "recipe_name": "Lemon Garlic Chicken",
+      "ingredients": ["chicken", "lemon", "garlic", "butter", "parsley"],
+      "cooking_method": "1. Melt butter in a large skillet over medium heat. 2. Add chicken and cook until browned. 3. Add garlic and cook for an additional 2 minutes. 4. Squeeze lemon juice over chicken and sprinkle with parsley. 5. Serve hot.",
+      "rating": 4.7
+    },
+    {
+      "recipe_name": "Vegetable Stir-Fry",
+      "ingredients": ["broccoli", "carrots", "snap peas", "onion", "soy sauce"],
+      "cooking_method": "1. Heat oil in a wok or large skillet over high heat. 2. Add vegetables and stir-fry for 2-3 minutes. 3. Add soy sauce and stir-fry for an additional minute. 4. Serve hot.",
+"rating": 4.5
+}
+
+],
+ "likes": 170,
+ "bio": "David Lee is an American chef with 10 years of experience in the culinary industry. He specializes in creating flavorful and unique dishes that are both delicious and easy to prepare. His recipes are inspired by his travels around the world and his passion for using fresh, locally sourced ingredients whenever possible."
+
+ },
+{
+  "id": 6,
+  "chef_picture": "https://images.unsplash.com/photo-1577219492769-b63a779fac28?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+  "chef_name": "Avlo Smith",
+  "years_of_experience": 13,
+  "number_of_recipes": 3,
+  "recipes": [
+    {
+      "recipe_name": "BBQ Pulled Pork Sandwiches",
+      "ingredients": ["pork shoulder", "barbecue sauce", "hamburger buns", "coleslaw", "pickles"],
+      "cooking_method": "1. Rub the pork shoulder with barbecue rub and let sit in the fridge overnight. 2. Smoke the pork shoulder for 8-10 hours until it's tender and falling apart. 3. Shred the pork and mix in barbecue sauce. 4. Serve on hamburger buns with coleslaw and pickles.",
+      "rating": 4.8
+    },
+    {
+      "recipe_name": "Classic Mac and Cheese",
+      "ingredients": ["elbow macaroni", "butter", "flour", "milk", "cheddar cheese"],
+      "cooking_method": "1. Cook the macaroni according to the package directions. 2. In a separate pot, melt butter over medium heat. 3. Add flour and whisk until smooth. 4. Gradually whisk in milk and cook until thickened. 5. Stir in cheddar cheese until melted. 6. Mix the cheese sauce with the cooked macaroni. 7. Serve hot.",
+      "rating": 4.6
+    },
+    {
+      "recipe_name": "Fried Chicken and Waffles",
+      "ingredients": ["chicken thighs", "buttermilk", "flour", "eggs", "waffles"],
+      "cooking_method": "1. Marinate chicken thighs in buttermilk for at least 1 hour. 2. In a shallow dish, mix flour and seasonings. 3. In another shallow dish, beat eggs. 4. Dip chicken thighs in flour mixture, then in egg mixture, then back in flour mixture. 5. Fry chicken in hot oil until crispy and cooked through. 6. Serve with waffles and syrup.",
+      "rating": 4.9
+    }
+  ],
+  "likes": 250,
+  "bio": "Avlo Smith is an American chef with 13 years of experience in the culinary industry. He specializes in creating flavorful and unique dishes that are both delicious and easy to prepare. His recipes are inspired by his travels around the world and his passion for using fresh, locally sourced ingredients whenever possible."
+
+}
+
+  ]
